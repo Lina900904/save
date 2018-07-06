@@ -1,0 +1,17 @@
+package service;
+
+import java.util.List;
+
+import domain.ExamBean;
+import domain.MemberBean;
+import domain.ProjectTeamBean;
+
+public interface ProjectTeamService {
+	public void createJoin(ProjectTeamBean project);
+	public List<ProjectTeamBean> list();
+	public List<ProjectTeamBean> findByName(ProjectTeamBean project);
+	public MemberBean findById(ProjectTeamBean project);
+	public void update(ProjectTeamBean project);
+	public void delete(ProjectTeamBean project);
+	public int count();
+}

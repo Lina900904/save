@@ -1,0 +1,17 @@
+package service;
+
+import java.util.List;
+
+import domain.ExamBean;
+import domain.MemberBean;
+import domain.SubjecBean;
+
+public interface SubjectService {
+	public void createJoin(SubjecBean subject);
+	public List<SubjecBean> list();
+	public List<SubjecBean> findByName(SubjecBean subject);
+	public MemberBean findById(SubjecBean subject);
+	public void update(SubjecBean subject);
+	public void delete(SubjecBean subject);
+	public int count();
+}

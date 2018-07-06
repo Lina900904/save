@@ -1,0 +1,60 @@
+package service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import domain.*;
+import service.*;
+
+public class MemberServiceImpl implements MemeberService{
+	private static MemeberService intstance = new MemberServiceImpl();
+	public static MemeberService getInstance() {return intstance;}
+	private MemberServiceImpl() {}
+
+		
+	
+	
+
+	@Override
+	public void createJoin(MemberBean member) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<MemberBean> list() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<MemberBean> findByName(MemberBean member) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public MemberBean findById(MemberBean member) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void update(MemberBean member) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void delete(MemberBean member) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public int count() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

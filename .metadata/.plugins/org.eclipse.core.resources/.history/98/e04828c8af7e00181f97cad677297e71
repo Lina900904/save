@@ -1,0 +1,18 @@
+package serviceImpl;
+
+
+import controller.*;
+import domain.*;
+import service.*;
+
+
+public class StartGameServiceImpl implements StartGameService{
+	List<UnitBean> list;
+
+	public StartGameServiceImpl() {
+		list = new ArrayList<>();
+	}
+	
+	
+	
+}

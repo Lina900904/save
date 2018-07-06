@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="serviceImpl.CardServiceImpl"/>
+<fullyQualifiedTypeName name="domain.CardBean"/>
+<fullyQualifiedTypeName name="service.CardService"/>
+<fullyQualifiedTypeName name="java.lang.Enum"/>
+<fullyQualifiedTypeName name="domain.UnitBean"/>
+<fullyQualifiedTypeName name="org.omg.Messaging.SyncScopeHelper"/>
+<fullyQualifiedTypeName name="service.GMSService"/>
+<fullyQualifiedTypeName name="service.GMSServiceImpl"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="service.ProjectTeamService"/>
+<fullyQualifiedTypeName name="java.lang.Readable"/>
+<fullyQualifiedTypeName name="service.RecordService"/>
+<fullyQualifiedTypeName name="service.SubjectService"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="service.MemeberService"/>
+<fullyQualifiedTypeName name="domain.ProjectTeamBean"/>
+<fullyQualifiedTypeName name="service.ExamService"/>
+<fullyQualifiedTypeName name="dao.MemberDAO"/>
+<fullyQualifiedTypeName name="dao.ProjectTeamDAO"/>
+<fullyQualifiedTypeName name="dao.RecordDAO"/>
+<fullyQualifiedTypeName name="dao.SubjectDAO"/>
+<fullyQualifiedTypeName name="domain.SubjecBean"/>
+<fullyQualifiedTypeName name="service.MemberServiceImpl"/>
+<fullyQualifiedTypeName name="domain.MemberBean"/>
+<fullyQualifiedTypeName name="dao.ExamDAOImpl"/>
+<fullyQualifiedTypeName name="service.ExamServiceImpl"/>
+<fullyQualifiedTypeName name="service.SubjectServiceImpl"/>
+<fullyQualifiedTypeName name="domain.ExamBean"/>
+<fullyQualifiedTypeName name="javax.naming.ServiceUnavailableException"/>
+<fullyQualifiedTypeName name="domain.SubjectBean"/>
+<fullyQualifiedTypeName name="domain.RecordBean"/>
+<fullyQualifiedTypeName name="dao.RecordDAOImpl"/>
+<fullyQualifiedTypeName name="dao.SubJectDAOImpl"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="test.JDBCTest"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

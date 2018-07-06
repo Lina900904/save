@@ -1,0 +1,12 @@
+package serviceImpl;
+
+
+import controller.*;
+import domain.*;
+import service.*;
+
+
+public class StartGameServiceImpl implements StartGameService
+{
+
+}

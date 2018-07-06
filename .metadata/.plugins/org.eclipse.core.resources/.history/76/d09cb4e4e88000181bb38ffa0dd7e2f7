@@ -1,0 +1,20 @@
+package test;
+
+import java.sql.*;
+
+public class JDBCTest {
+
+	public static void main(String[] args) {
+		
+		
+		try {
+			Connection conn =  DriverManager.getConnection(null);
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+				
+
+	}
+
+}

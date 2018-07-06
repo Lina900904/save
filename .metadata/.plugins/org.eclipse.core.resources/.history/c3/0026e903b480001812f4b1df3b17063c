@@ -1,0 +1,16 @@
+package dao;
+
+import java.util.List;
+
+import domain.*;
+
+public interface SubjectDAO {
+	public void insertProjectTeam(SubjectBean subject);
+	public List<SubjectBean>  selectSubjectList();
+	public SubjectBean selectSubjectById(String id);
+	public SubjectBean login(SubjectBean subject);
+	public int countRecord();
+	public void updateMember(SubjectBean subject);
+	public void delete(SubjectBean subject);
+
+}

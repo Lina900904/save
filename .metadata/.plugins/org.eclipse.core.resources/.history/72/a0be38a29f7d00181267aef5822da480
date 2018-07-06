@@ -1,0 +1,24 @@
+package service;
+
+import domain.TeamBean;
+
+public interface TeamService {
+	public String createBmi(TeamBean team);
+	public String avgHeight();
+	public String avgWeight();
+	public int maxHeight(TeamBean team);
+	public int minHeight(TeamBean team);
+	public void addList(TeamBean team);
+	public TeamBean[] list();
+
+
+	public String maxName(TeamBean team);
+	public String minName(TeamBean team);
+	public String createGender(TeamBean team);
+	public void create( TeamBean team);
+	public void showList(TeamBean team);
+
+
+
+	
+}

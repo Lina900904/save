@@ -1,0 +1,50 @@
+package controller;
+
+import javax.swing.JOptionPane;
+
+import domain.MemberBean;
+import service.*;
+import controller.*;
+import domain.*;
+
+enum Kind {
+	EXIT
+}
+
+public class GMScontroller {
+
+	public static void main(String[] args) {
+		private static GMSController intance = new GMSController();
+		public static GMSController getInstance() {return intance;}
+		private GMSController() {}
+
+		while (true) {
+			switch (JOptionPane.showInputDialog("0.EXIT 1. 2.")) {
+			case "0":
+				return;
+
+			case "1":
+				ExamBean exam = new ExamBean();
+				exam.setExam_id(JOptionPane.showInputDialog("이름"));
+				exam.setMonth(JOptionPane.showInputDialog("월"));
+
+				break;
+			case "2":
+				SubjecBean subject = new SubjecBean();
+				subject.setSub_name(JOptionPane.showInputDialog("JAVA 점수"));
+			//	JOptionPane.showInputDialog("SQL 점수");
+			//	JOptionPane.showInputDialog("HTML5 점수");
+				//JOptionPane.showInputDialog("PYTHON 점수");
+
+				break;
+			case "3":
+				break;
+
+			default:
+				break;
+			}
+		}
+
+	}
+
+}

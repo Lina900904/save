@@ -1,0 +1,15 @@
+package dao;
+
+import domain.*;
+import java.util.*;
+public interface ExamDAO {
+	public void insertExam(ExamBean exam);
+	public List<ExamBean>  selectExamList();
+	public ExamBean selectExamById(String word);
+	public ExamBean login(ExamBean member);
+	public int countExam();
+	public void updateMember(ExamBean member);
+	public void delete(ExamBean member);
+}
+
+	
