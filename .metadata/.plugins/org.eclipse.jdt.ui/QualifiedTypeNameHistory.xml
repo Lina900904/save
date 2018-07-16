@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="serviceImpl.CardServiceImpl"/>
-<fullyQualifiedTypeName name="domain.CardBean"/>
-<fullyQualifiedTypeName name="service.CardService"/>
-<fullyQualifiedTypeName name="java.lang.Enum"/>
-<fullyQualifiedTypeName name="domain.UnitBean"/>
 <fullyQualifiedTypeName name="org.omg.Messaging.SyncScopeHelper"/>
 <fullyQualifiedTypeName name="service.GMSService"/>
 <fullyQualifiedTypeName name="service.GMSServiceImpl"/>
@@ -23,8 +17,6 @@
 <fullyQualifiedTypeName name="dao.RecordDAO"/>
 <fullyQualifiedTypeName name="dao.SubjectDAO"/>
 <fullyQualifiedTypeName name="domain.SubjecBean"/>
-<fullyQualifiedTypeName name="service.MemberServiceImpl"/>
-<fullyQualifiedTypeName name="domain.MemberBean"/>
 <fullyQualifiedTypeName name="dao.ExamDAOImpl"/>
 <fullyQualifiedTypeName name="service.ExamServiceImpl"/>
 <fullyQualifiedTypeName name="service.SubjectServiceImpl"/>
@@ -34,11 +26,38 @@
 <fullyQualifiedTypeName name="domain.RecordBean"/>
 <fullyQualifiedTypeName name="dao.RecordDAOImpl"/>
 <fullyQualifiedTypeName name="dao.SubJectDAOImpl"/>
+<fullyQualifiedTypeName name="test.JDBCTest"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.schemagen.xmlschema.List"/>
+<fullyQualifiedTypeName name="com.sun.java.util.jar.pack.Package.Class.Member"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+<fullyQualifiedTypeName name="java.sql.Array"/>
+<fullyQualifiedTypeName name="dao.TestDAO"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.regexp.internal.RE"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.api.ha.StickyFeature"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.awt.Shape"/>
+<fullyQualifiedTypeName name="factory.Oracle"/>
+<fullyQualifiedTypeName name="factory.MariaDB"/>
+<fullyQualifiedTypeName name="factory.MySQL"/>
+<fullyQualifiedTypeName name="factory.MsSQL"/>
+<fullyQualifiedTypeName name="factory.Database"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.developer.MemberSubmissionAddressing.Validation"/>
+<fullyQualifiedTypeName name="oracle.jdbc.driver.DBConversion"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.regexp.internal.recompile"/>
+<fullyQualifiedTypeName name="com.sun.corba.se.spi.orbutil.fsm.Guard.Result"/>
 <fullyQualifiedTypeName name="java.sql.Connection"/>
 <fullyQualifiedTypeName name="java.sql.DriverManager"/>
-<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="enums.Vendor"/>
+<fullyQualifiedTypeName name="pool.DBConstant"/>
 <fullyQualifiedTypeName name="java.sql.ResultSet"/>
-<fullyQualifiedTypeName name="test.JDBCTest"/>
+<fullyQualifiedTypeName name="factory.DatabaseFactory"/>
+<fullyQualifiedTypeName name="enums.MemberQuery"/>
+<fullyQualifiedTypeName name="domain.MemberBean"/>
+<fullyQualifiedTypeName name="service.MemberServiceImpl"/>
+<fullyQualifiedTypeName name="dao.MemberDAOImpl"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>

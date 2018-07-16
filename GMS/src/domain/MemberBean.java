@@ -1,14 +1,14 @@
 package domain;
 
 public class MemberBean {
-	private String mem_name, mem_age, roll,mem_id;
+	private String memName, memAge, roll,memId;
 
-	public String getMem_name() {
-		return mem_name;
+	public String getMemName() {
+		return memName;
 	}
 
-	public void setMem_name(String mem_name) {
-		this.mem_name = mem_name;
+	public void setMemName(String memName) {
+		this.memName = memName;
 	}
 
 
@@ -21,20 +21,20 @@ public class MemberBean {
 		this.roll = roll;
 	}
 
-	public String getMem_id() {
-		return mem_id;
+	public String getMemId() {
+		return memId;
 	}
 
-	public void setMem_id(String mem_id) {
-		this.mem_id = mem_id;
+	public void setMemId(String memId) {
+		this.memId = memId;
 	}
 
-	public String getMem_age() {
-		return mem_age;
+	public String getMemAge() {
+		return memAge;
 	}
 
-	public void setMem_age(String mem_age) {
-		this.mem_age = mem_age;
+	public void setMemAge(String memAge) {
+		this.memAge = memAge;
 	}
 
 }
